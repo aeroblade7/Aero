@@ -1,1 +1,3 @@
 # Aero
+
+$ git init
